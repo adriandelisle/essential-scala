@@ -1,6 +1,4 @@
-import javax.naming.spi.DirStateFactory.Result
-
-object exercise {
+object exercise_4_4_7_0_1 {
 
   // 4.7.0.1 A Calculator
   // In this exercise we’ll implement a simple interpreter for programs containing only numeric operations.
@@ -94,4 +92,4 @@ object exercise {
 
 }
 
-exercise
+exercise_4_4_7_0_1

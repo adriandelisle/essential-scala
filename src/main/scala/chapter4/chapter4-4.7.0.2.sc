@@ -1,4 +1,4 @@
-object exercise {
+object exercise_4_4_7_0_2 {
 
   // 4.7.0.2 JSON
   // In the calculator exercise we gave you the algebraic data type representation.
@@ -119,4 +119,4 @@ object exercise {
   // res1: String = {"a": [1.0, 2.0, 3.0], "b": ["a", "b", "c"], "c": {"doh": true, "ray": false, "me": 1.0}}
 }
 
-exercise
+exercise_4_4_7_0_2

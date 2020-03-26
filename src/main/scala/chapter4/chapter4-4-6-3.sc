@@ -1,4 +1,4 @@
-object exercise {
+object exercise_4_4_6_3 {
 
   // Using our definition of IntList
   sealed trait IntList {
@@ -69,4 +69,4 @@ object exercise {
   assert(treeExample.double == Node(Node(Leaf(2), Leaf(4)), Leaf(6)))
 }
 
-exercise
+exercise_4_4_6_3
